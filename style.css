@@ -1,0 +1,26 @@
+body {
+    font-family: Playfair Display;
+    background-color: #1818CF;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.link_instagram {
+    color: #ffffff;
+    text-decoration: underline overline;
+    text-decoration: none;
+}
+
+.block-1 {
+    margin-top: 200px;
+    max-width: 850px;
+    height: 500px;
+}
+
+.logo {
+    margin-bottom: 70px;
+}

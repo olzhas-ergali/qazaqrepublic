@@ -1,0 +1,41 @@
+@media only screen and (max-width:992px) {
+    h1 {
+        font-size: 50px;
+    }
+    .block-1 {
+        max-width: 650px;
+    }
+}
+
+@media only screen and (max-width:700px) {
+    h1 {
+        font-size: 45px;
+    }
+    .block-1 {
+        margin-top: 150px;
+        max-width: 550px;
+    }
+}
+
+@media only screen and (max-width:540px) {
+    h1 {
+        font-size: 40px;
+    }
+    .block-1 {
+        margin-top: 75px;
+        max-width: 400px;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    .logo {
+        width: 75px;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    .block-1 {
+        margin-top: 75px;
+        max-width: 300px;
+    }
+}
